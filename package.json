@@ -1,0 +1,15 @@
+{
+  "name": "dataloader-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/nioi-sugoi/dataloader-sample.git",
+  "author": "nioi-sugoi <nioisugoi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dataloader": "^2.2.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}
